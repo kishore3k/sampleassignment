@@ -1,0 +1,4 @@
+java 1.i8 
+mysql 5.8
+tomcat 7.0.92
+nginx1.8.2
